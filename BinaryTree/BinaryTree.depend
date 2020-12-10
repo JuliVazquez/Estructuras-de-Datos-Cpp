@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1607543761 source:f:\unq\5- cuatrimestre 4. ciclo basico\estructuras de datos\c++\practicas pre parcial\binarytree\arraylist.cpp
+	"ArrayList.h"
+
+1607543768 f:\unq\5- cuatrimestre 4. ciclo basico\estructuras de datos\c++\practicas pre parcial\binarytree\arraylist.h
+	<iostream>
+
+1607543853 source:f:\unq\5- cuatrimestre 4. ciclo basico\estructuras de datos\c++\practicas pre parcial\binarytree\tree.cpp
+	"Tree.h"
+
+1607543846 f:\unq\5- cuatrimestre 4. ciclo basico\estructuras de datos\c++\practicas pre parcial\binarytree\tree.h
+	<iostream>
+
+1607543923 source:f:\unq\5- cuatrimestre 4. ciclo basico\estructuras de datos\c++\practicas pre parcial\binarytree\queue.cpp
+	"Queue.h"
+
+1607543810 f:\unq\5- cuatrimestre 4. ciclo basico\estructuras de datos\c++\practicas pre parcial\binarytree\queue.h
+	<iostream>
+	"Tree.h"
+
+1607543946 source:f:\unq\5- cuatrimestre 4. ciclo basico\estructuras de datos\c++\practicas pre parcial\binarytree\main.cpp
+	<iostream>
+	"Tree.h"
+	"ArrayList.h"
+	"Queue.h"
+

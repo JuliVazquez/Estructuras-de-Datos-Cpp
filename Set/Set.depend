@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1607456218 source:f:\unq\5- cuatrimestre 4. ciclo basico\estructuras de datos\c++\practicas pre parcial\set\linkedlist.cpp
+	"LinkedList.h"
+
+1607456222 f:\unq\5- cuatrimestre 4. ciclo basico\estructuras de datos\c++\practicas pre parcial\set\linkedlist.h
+	<iostream>
+
+1607458173 source:f:\unq\5- cuatrimestre 4. ciclo basico\estructuras de datos\c++\practicas pre parcial\set\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"Set.h"
+
+1607456257 f:\unq\5- cuatrimestre 4. ciclo basico\estructuras de datos\c++\practicas pre parcial\set\set.h
+	<iostream>
+	"LinkedList.h"
+
+1607458024 source:f:\unq\5- cuatrimestre 4. ciclo basico\estructuras de datos\c++\practicas pre parcial\set\set.cpp
+	"Set.h"
+

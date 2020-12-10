@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1607543420 source:f:\unq\5- cuatrimestre 4. ciclo basico\estructuras de datos\c++\practicas pre parcial\queue\main.cpp
+	<iostream>
+	"Queue.h"
+
+1607542556 f:\unq\5- cuatrimestre 4. ciclo basico\estructuras de datos\c++\practicas pre parcial\queue\queue.h
+	<iostream>
+
+1607543421 source:f:\unq\5- cuatrimestre 4. ciclo basico\estructuras de datos\c++\practicas pre parcial\queue\queue.cpp
+	"Queue.h"
+

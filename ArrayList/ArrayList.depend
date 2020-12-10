@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1607523695 source:f:\unq\5- cuatrimestre 4. ciclo basico\estructuras de datos\c++\practicas pre parcial\arraylist\main.cpp
+	<iostream>
+	"ArrayList.h"
+
+1607383046 f:\unq\5- cuatrimestre 4. ciclo basico\estructuras de datos\c++\practicas pre parcial\arraylist\arraylist.h
+	<iostream>
+
+1607384889 source:f:\unq\5- cuatrimestre 4. ciclo basico\estructuras de datos\c++\practicas pre parcial\arraylist\arraylist.cpp
+	"ArrayList.h"
+
