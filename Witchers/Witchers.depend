@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1607975479 source:f:\unq\5- cuatrimestre 4. ciclo basico\estructuras de datos\c++\practicas pre parcial\pre recu\propios\witchers\witcher.cpp
+	"Witcher.h"
+
+1608059017 f:\unq\5- cuatrimestre 4. ciclo basico\estructuras de datos\c++\practicas pre parcial\pre recu\propios\witchers\witcher.h
+	<iostream>
+
+1608060262 source:f:\unq\5- cuatrimestre 4. ciclo basico\estructuras de datos\c++\practicas pre parcial\pre recu\propios\witchers\main.cpp
+	<iostream>
+	"Witcher.h"
+	"ArrayList.h"
+	"KaerMorhen.h"
+
+1607985432 source:f:\unq\5- cuatrimestre 4. ciclo basico\estructuras de datos\c++\practicas pre parcial\pre recu\propios\witchers\arraylist.cpp
+	"ArrayList.h"
+
+1608056797 f:\unq\5- cuatrimestre 4. ciclo basico\estructuras de datos\c++\practicas pre parcial\pre recu\propios\witchers\arraylist.h
+	<iostream>
+	"Witcher.h"
+
+1608060221 source:f:\unq\5- cuatrimestre 4. ciclo basico\estructuras de datos\c++\practicas pre parcial\pre recu\propios\witchers\kaermorhen.cpp
+	"KaerMorhen.h"
+
+1608060003 f:\unq\5- cuatrimestre 4. ciclo basico\estructuras de datos\c++\practicas pre parcial\pre recu\propios\witchers\kaermorhen.h
+	"Witcher.h"
+	"ArrayList.h"
+	<iostream>
+

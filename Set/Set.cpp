@@ -27,14 +27,20 @@ bool isEmptyS(Set s){
 /*-------------------------------------------------------------------------*/
 bool belongsS(int x, Set s){
 
-    NodoS* nodoActal = s->primero;
-    int cant = s->cantidad;
+    if(s->cantidad>0){
 
-    while(cant > 0 && nodoActal->elem != x){
-        nodoActal = nodoActal->siguiente;
-        cant--;
+        int cant = s->cantidad;
+        NodoS* nodoActal = s->primero;
+        while(cant > 0 && nodoActal->elem != x){
+            nodoActal = nodoActal->siguiente;
+            cant--;
+        }
+
+        return cant > 0 && nodoActal->elem == x;
     }
-    return cant > 0 && nodoActal->elem == x;
+    else{
+        return false;
+    }
 }
 /*-------------------------------------------------------------------------*/
 void addS(int x, Set s){
